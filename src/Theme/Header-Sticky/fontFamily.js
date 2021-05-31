@@ -3,4 +3,5 @@ export const fontFamily = {
   oswald: "Oswald,sans-serif",
   roboto: "Roboto, sans-serif",
   inter: "Inter, sans-serif",
+  openSans: "Open Sans, sans-serif",
 };
